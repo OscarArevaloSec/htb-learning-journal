@@ -11,6 +11,7 @@ This repository contains sanitized notes from my Hack The Box learning journey. 
 | `modules/` | Sanitized module reflections and key takeaways. |
 | `reflections/` | Personal learning reflections and growth notes. |
 | `CJCA_JUNE_23_RECOVERY_RUNBOOK.md` | June 23 CJCA recovery schedule, go/no-go standards, and execution rules. |
+| `CJCA_STUDY_BLOCK_01_RECOVERY_BASELINE.md` | First hands-on recovery baseline block with evidence, reporting, and scoring requirements. |
 
 ## Content Policy
 
