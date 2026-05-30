@@ -10,6 +10,7 @@ This repository contains sanitized notes from my Hack The Box learning journey. 
 | `tools/` | Tool reference notes focused on what the tool does and what defenders can learn from it. |
 | `modules/` | Sanitized module reflections and key takeaways. |
 | `reflections/` | Personal learning reflections and growth notes. |
+| `CJCA_JUNE_23_RECOVERY_RUNBOOK.md` | June 23 CJCA recovery schedule, go/no-go standards, and execution rules. |
 
 ## Content Policy
 
@@ -26,7 +27,7 @@ This repository contains sanitized notes from my Hack The Box learning journey. 
 | Certification Target | Platform | Status |
 |---|---|---|
 | CDSA preparation | Hack The Box Academy | In progress |
-| CJCA preparation | Hack The Box Academy | In progress |
+| CJCA preparation | Hack The Box Academy | In progress — June 23 recovery target |
 | Additional offensive-security practice | Hack The Box | Long-term learning |
 
 ## Purpose
